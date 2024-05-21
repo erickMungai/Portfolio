@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.42387326.css",
+    "main.js": "/Portfolio/static/js/main.c9d9298b.js",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.55dad81f801a0a49146d.pdf",
+    "static/media/logo.png": "/Portfolio/static/media/logo.da65afc3bd53621b8056.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/Portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/project-3.jpg": "/Portfolio/static/media/project-3.9f2b23b60d935c0bcd57.jpg",
+    "static/media/project-1.jpg": "/Portfolio/static/media/project-1.b07a7e453e98fd088592.jpg",
+    "static/media/Springboot.png": "/Portfolio/static/media/Springboot.953ee24309fa38748981.png",
+    "static/media/project-4.jpg": "/Portfolio/static/media/project-4.e9d45baa2f4e80de124d.jpg",
+    "static/media/tailwind.png": "/Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/Java.png": "/Portfolio/static/media/Java.e238a2c40e6eaec570bc.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/project-2.jpg": "/Portfolio/static/media/project-2.08acd9ee513512afa907.jpg",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio/index.html",
+    "main.42387326.css.map": "/Portfolio/static/css/main.42387326.css.map",
+    "main.c9d9298b.js.map": "/Portfolio/static/js/main.c9d9298b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42387326.css",
+    "static/js/main.c9d9298b.js"
+  ]
+}
